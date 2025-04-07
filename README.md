@@ -14,8 +14,9 @@ BookBot is a simple Python program that analyzes the contents of a .txt book fil
 
 1.Clone the repository:
 
-```git clone https://github.com/borasaygac/bookbot.git
-cd bookbot```
+```git clone https://github.com/borasaygac/bookbot.git```
+
+```cd bookbot```
 
 2. (Optional) Create and activate a virtual environment:
 
@@ -29,17 +30,17 @@ cd bookbot```
 
 * Example Output
 
-```--- Begin report of books/frankenstein.txt ---```
+--- Begin report of books/frankenstein.txt ---
 
-```13461 words found in the document```
+13461 words found in the document
 
-```The 'e' character was found 2345 times```
+The 'e' character was found 2345 times
 
-```The 't' character was found 1937 times```
+The 't' character was found 1937 times
 
-```...```
+...
 
-```--- End report ---```
+--- End report ---
 
 ### Customization
 
