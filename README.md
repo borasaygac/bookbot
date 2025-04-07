@@ -14,9 +14,8 @@ BookBot is a simple Python program that analyzes the contents of a .txt book fil
 
 1.Clone the repository:
 
-```git clone https://github.com/borasaygac/bookbot.git```
-
-```cd bookbot```
+```git clone https://github.com/borasaygac/bookbot.git
+cd bookbot```
 
 2. (Optional) Create and activate a virtual environment:
 
